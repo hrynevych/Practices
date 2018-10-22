@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="ua.khpi.hrynevych.task01.Demo" project="Task01" 
+    file="/Task01/src/ua/khpi/hrynevych/task01/Demo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="120" x="230" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="ua.khpi.hrynevych.task01.Subtask01" project="Task01" 
+    file="/Task01/src/ua/khpi/hrynevych/task01/Subtask01.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="120" x="390" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="ua.khpi.hrynevych.task01.Subtask02" project="Task01" 
+    file="/Task01/src/ua/khpi/hrynevych/task01/Subtask02.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="120" x="710" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="ua.khpi.hrynevych.task01.Subtask03" project="Task01" 
+    file="/Task01/src/ua/khpi/hrynevych/task01/Subtask03.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="120" x="550" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="ua.khpi.hrynevych.task01.Subtask04" project="Task01" 
+    file="/Task01/src/ua/khpi/hrynevych/task01/Subtask04.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="120" x="870" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="ua.khpi.hrynevych.task01.Subtask05" project="Task01" 
+    file="/Task01/src/ua/khpi/hrynevych/task01/Subtask05.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="149" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
